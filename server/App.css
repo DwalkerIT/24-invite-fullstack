@@ -25,34 +25,34 @@ body {
 }
 
 .invite-card-info {
-  border-top: 1px solid #666;
-  border-bottom: 1px solid #666;
-  padding: 20px;
+    border-top: 1px solid #666;
+    border-bottom: 1px solid #666;
+    padding: 20px;
 }
 
 .invite-card-actions {
-  padding: 20px;
-  justify-content: space-between;
-  display: flex;
-  width: 60%;
-  margin: 0 auto;
+    padding: 20px;
+    justify-content: space-between;
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
 }
 
 .invite-card-btn {
-  padding: 10px 30px;
-  border: none;
+    padding: 10px 30px;
+    border: none;
 }
 
 .invite-card-btn-approve {
-  background: #67ac5b;
+    background: #67AC5B;
 }
 
 .invite-card-btn-deny {
-  background: #e15241;
+    background: #E15241;
 }
 
-.user-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  column-gap: 20px;
+.user-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 20px;
 }
